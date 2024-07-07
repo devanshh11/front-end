@@ -9,6 +9,7 @@ li{
 }
 a{
   text-decoration: none;
+
 }
 
 nav{
@@ -125,7 +126,7 @@ button {
 }
 
 
-form, .comfirm{
+form, .confirm{
   padding: 10px 13%;
 }
 
@@ -156,7 +157,7 @@ input, label{
 
 }
 
-.comfirm span{
+.confirm span{
   color: blue;
 }
 
@@ -310,4 +311,8 @@ footer ul li{
 
 .hidden{
   display: none;
+}
+
+footer ul li a{
+  color: #fff;
 }
