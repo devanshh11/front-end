@@ -7,3 +7,5 @@ great on all devices, providing a seamless experience for desktop, tablet, and m
 content enhance user engagement, making "Little Lemon" an inviting digital presence for the restaurant
 
 ![image](https://github.com/user-attachments/assets/bf150e4f-5ada-4c96-9db3-135470cc9cb2)
+![image](https://github.com/user-attachments/assets/61c6b5b4-d527-4627-949d-7ba1dcb5911e)
+![image](https://github.com/user-attachments/assets/471f4c96-ffc0-433a-8f34-f42201c53d19)
